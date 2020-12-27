@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RePlayinG Battle</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="welcome_fragment_label">Welcome Fragment</string>
+    <string name="battle_fragment_label">Battle Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_welcome_fragment">Hello welcome fragment</string>
+    <string name="hello_battle_fragment">Hello battle fragment. Arg: %1$s</string>
+</resources>
